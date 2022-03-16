@@ -14,5 +14,5 @@ print(multiplication)
 division = c.division(x, y)
 print(division)
 
-print(dir(cal))
-print(cal.path)
+print(dir(c))
+print(c.path)
