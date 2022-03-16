@@ -1,14 +1,14 @@
-def add(a, b):
+def additon(a, b):
     return a + b
 
 
-def sub(a, b):
+def subbstraction(a, b):
     return a - b
 
 
-def mul(a, b):
+def multiplication(a, b):
     return a * b
 
 
-def div(a, b):
+def division(a, b):
     return a / b
