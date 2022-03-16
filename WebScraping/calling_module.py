@@ -2,16 +2,16 @@ import Calculator as c
 x = 7
 y = 9
 
-addition = c.add(x, y)
+addition = c.addition(x, y)
 print(addition)
 
-substraction = c.sub(x, y)
+substraction = c.substraction(x, y)
 print(substraction)
 
-multiplication = c.mul(x, y)
+multiplication = c.multilication(x, y)
 print(multiplication)
 
-division = c.div(x, y)
+division = c.division(x, y)
 print(division)
 
 print(dir(cal))
